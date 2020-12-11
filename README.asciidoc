@@ -22,7 +22,10 @@ Our expectation is you will be writing some server code, client code, and applyi
 
 Below find the example of grouping and displaying the information
 
-image::images/Sample Table.png
+image::images/Sample Table.png[]
 
 == Submission
 Upload your repository to GitHub and send us a link. Update this README to include instructions on how to install, test, and run your application. Bonus: Deploy it and include the URL here.
+
+== Questions
+Feel free to ask any questions regarding the assignment.
