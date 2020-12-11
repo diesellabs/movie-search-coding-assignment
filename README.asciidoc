@@ -11,14 +11,18 @@ Some of the features which would be good to have are:
 3. Create endpoints to load the table, search and auto completions
 
 == Data
-A zipped csv file of variants is available in /data/ml-latest-small.zip. The datafile can also be downloaded from http://files.grouplens.org/datasets/movielens/ml-latest-small-README.html.
-This datafile contains links.csv, movies.csv, ratings.csv and tags.csv. The expectations is the you will combine the links, ratings and tags for movies in movies.csv and present the combined data in your implementation.
+A zipped csv file of variants is available in /data/ml-latest-small.zip. The datafile can also be downloaded from https://grouplens.org/datasets/movielens/latest/.
+This datafile contains links.csv, movies.csv, ratings.csv and tags.csv. The expectations is the you will combine the links, ratings and tags for movies in movies.csv and present the combined data in your implementation. Ratings are averaged and aggregated by movie.
 Feel free to store the data in the database of your choosing.
 
 == Implementation
 If you are comfortable with Scala and/or React, please use these technologies for your app. You may use any additional frameworks, languages, databases, libraries, etc. that you find appropriate.
 
 Our expectation is you will be writing some server code, client code, and applying some basic styling to create a working web application. The application should include unit tests.
+
+Below find the example of grouping and displaying the information
+
+image::images/Sample Table.png
 
 == Submission
 Upload your repository to GitHub and send us a link. Update this README to include instructions on how to install, test, and run your application. Bonus: Deploy it and include the URL here.
