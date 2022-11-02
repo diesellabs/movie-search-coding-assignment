@@ -16,7 +16,7 @@ This datafile contains links.csv, movies.csv, ratings.csv and tags.csv. The expe
 Feel free to store the data in the database of your choosing.
 
 == Implementation
-If you are comfortable with Scala and/or React, please use these technologies for your app. You may use any additional frameworks, languages, databases, libraries, etc. that you find appropriate.
+Please choose the language/framework of your choice (python, java, c, scala, react, vue, etc). You may use any additional frameworks, languages, databases, libraries, etc. that you find appropriate.
 
 Our expectation is you will be writing some server code, client code, and applying some basic styling to create a working web application. The application should include unit tests.
 
